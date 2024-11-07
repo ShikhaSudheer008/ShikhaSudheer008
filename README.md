@@ -20,7 +20,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shikha sudheer" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shikha sudheer" height="50" width="180" /></a>
+<a href="https://www.linkedin.com/in/shikha-sudheer-217a6b1b2/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="shikha sudheer" height="50" width="180" /></a>
 <a href="https://mail.google.com/mail/u/2/#inbox" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="shikha sudheer" height="50" width="140" /></a>
 </p>
 
