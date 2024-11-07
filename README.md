@@ -24,7 +24,6 @@
 <a href="https://mail.google.com/mail/u/2/#inbox" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="shikha sudheer" height="50" width="140" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhasudheer008" alt="shikhasudheer008" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shikhasudheer&label=Profile%20views&color=0e75b6&style=flat" alt="shikhasudheer008" /> </p>
 
 
