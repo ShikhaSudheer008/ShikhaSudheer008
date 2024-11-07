@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate to **open-source projects focused on AI, deep learning, and computer vision, as well as projects involving large-scale data processing.**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at https://github.com/ShikhaSudheer008
 
 - 📫 How to reach me **shikhasudheerofficial@gmail.com**
 
